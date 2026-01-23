@@ -20,6 +20,6 @@ Ts gay ahh macro marketted as undetected by ocean while it aint fo sh1. Prestige
 - levitical1 - Emotional support.
 - ??? - Exe.
 
-# GUI (Bind: RShift)
+# GUI (Bind: N/A)
 
 ![image](https://github.com/TrilliumSolutions/198macros-v1.4.0/blob/main/gui.png?raw=true)
