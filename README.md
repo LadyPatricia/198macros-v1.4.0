@@ -6,7 +6,7 @@
 Ts gay ahh macro marketted as undetected by ocean while it aint fo sh1. Prestige genuinely should have focused on making Prestige undetected instead of listening to some t4rded skids that think using powershell makes u undetected or sum lmao. As someone who has experience with powershell, thats the last thing u wanna use 😭. Also the other guy called 198m acting all tuff and sh1, he the biggest skid in the universe and was larping how its undetected in vc while getting detected by ocean in front of at least 10 ppl and bullying fat kids like a "15yo american bully" from tiktok skits and calling everyone poor ans jealous (Ur not tuff boi) 😭💔✌️. This Bebben/bxbben (776512184154587156) biggest dumbahh, I believe he is one of the skids behind the powershell idea because of "ramdump" while ignoring the fact it leaves 9083738378 traces on its fuhing native OS. There is quite literally 3873883 reason this client deserves to be cr4cked. Price is LITERALLY $117 lifetime and $77.00 yearly for detected client. If u bought this client u got scammed twin ✌️.
 
 **Ocean detection:** https://www.youtube.com/watch?v=Li2S0PuLS_I </br>
-**How to cr4ck 198macros:** SoonTM
+**How to cr4ck 198macros:** https://www.youtube.com/watch?v=2WkV8eV7kXo
 
 # How To Use
 
